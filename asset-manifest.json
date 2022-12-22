@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myLaourMan/static/css/main.23ac2687.css",
+    "main.js": "/myLaourMan/static/js/main.69572956.js",
+    "static/media/Images.png": "/myLaourMan/static/media/Images.f0b2fca70153a3df9913.png",
+    "static/media/Group 116.png": "/myLaourMan/static/media/Group 116.adb5dc50bb13981ae6f1.png",
+    "static/media/dummy-avatar.jpg": "/myLaourMan/static/media/dummy-avatar.0b3bac7213c1059cf7a8.jpg",
+    "index.html": "/myLaourMan/index.html",
+    "static/media/password-off.svg": "/myLaourMan/static/media/password-off.856c06f42adc3dd9e7f2ea7f4db23112.svg",
+    "main.23ac2687.css.map": "/myLaourMan/static/css/main.23ac2687.css.map",
+    "main.69572956.js.map": "/myLaourMan/static/js/main.69572956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ac2687.css",
+    "static/js/main.69572956.js"
+  ]
+}
